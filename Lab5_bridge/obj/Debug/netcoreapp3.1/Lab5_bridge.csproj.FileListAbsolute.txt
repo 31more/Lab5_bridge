@@ -1,0 +1,12 @@
+/Users/polina/Desktop/C#/Lab5_bridge/bin/Debug/netcoreapp3.1/Lab5_bridge.deps.json
+/Users/polina/Desktop/C#/Lab5_bridge/bin/Debug/netcoreapp3.1/Lab5_bridge.runtimeconfig.json
+/Users/polina/Desktop/C#/Lab5_bridge/bin/Debug/netcoreapp3.1/Lab5_bridge.runtimeconfig.dev.json
+/Users/polina/Desktop/C#/Lab5_bridge/bin/Debug/netcoreapp3.1/Lab5_bridge.dll
+/Users/polina/Desktop/C#/Lab5_bridge/bin/Debug/netcoreapp3.1/Lab5_bridge.pdb
+/Users/polina/Desktop/C#/Lab5_bridge/obj/Debug/netcoreapp3.1/Lab5_bridge.csprojAssemblyReference.cache
+/Users/polina/Desktop/C#/Lab5_bridge/obj/Debug/netcoreapp3.1/Lab5_bridge.csproj.CoreCompileInputs.cache
+/Users/polina/Desktop/C#/Lab5_bridge/obj/Debug/netcoreapp3.1/Lab5_bridge.AssemblyInfoInputs.cache
+/Users/polina/Desktop/C#/Lab5_bridge/obj/Debug/netcoreapp3.1/Lab5_bridge.AssemblyInfo.cs
+/Users/polina/Desktop/C#/Lab5_bridge/obj/Debug/netcoreapp3.1/Lab5_bridge.dll
+/Users/polina/Desktop/C#/Lab5_bridge/obj/Debug/netcoreapp3.1/Lab5_bridge.pdb
+/Users/polina/Desktop/C#/Lab5_bridge/obj/Debug/netcoreapp3.1/Lab5_bridge.genruntimeconfig.cache
